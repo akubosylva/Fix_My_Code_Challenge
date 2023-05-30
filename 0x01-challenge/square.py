@@ -43,7 +43,9 @@ class Square():
         """
         return "{}/{}".format(self.width, self.height)
 
+
 if __name__ == "__main__":
+
     # Create a Square object with width=12 and height=9
     s = Square(width=12, height=9)
 
